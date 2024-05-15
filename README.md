@@ -20,10 +20,11 @@ This file contains the details of the best rating team within the specified budg
 
 Tableau link 
 Link to presentation
-![my_image](/SportBetting-DataAnalytics/readme/download.png) 
-![my_image](/SportBetting-DataAnalytics/readme/download_1.png) 
-![my_image](/SportBetting-DataAnalytics/readme/download_2.png) 
-![my_image](/SportBetting-DataAnalytics/readme/download_3.png) 
-![my_image](/SportBetting-DataAnalytics/readme/download_4.png) 
-![my_image](/SportBetting-DataAnalytics/readme/download_5.png) 
+![my_image](readme/download.png)
+![my_image](readme/download_1.png)
+![my_image](readme/download_2.png)
+![my_image](readme/download_3.png)
+![my_image](readme/download_4.png)
+![my_image](readme/download_5.png)
+
 
