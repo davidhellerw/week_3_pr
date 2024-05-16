@@ -9,6 +9,8 @@ A Data Analytics project using a Professional Soccer Athelets Database along wit
 This file contains the details of the best overall value team within the specified budget. The team is selected based on the highest overall value, which is calculated as the product of rating per dollar and the player's rating.
 ### `best_rating_team.csv`
 This file contains the details of the best rating team within the specified budget. The team is selected based on the highest overall rating while making sure that the total sum cost doesn't exceed the budget.
+
+
 **Columns:**
 - `Field_Pos`: The position of the player on the field.
 - `Rating`: The player's rating.
