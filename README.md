@@ -34,3 +34,5 @@ Link to presentation
 We have included data from the [Soccer Players Statistics](https://www.kaggle.com/datasets/antoinekrajnc/soccer-players-statistics/data) dataset on Kaggle for additional analysis and features. Other information are acquired from [Capology](https://www.capology.com/) website 
 
 
+**Presentation**
+[Google Slide](https://trello.com/invite/b/6G76kTW7/ATTI1eefd2197e87bf394d3d2491a48118ed841D6ABD/sport-betting-project)
